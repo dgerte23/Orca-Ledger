@@ -1,6 +1,7 @@
 # Orca-Ledger
-（中文见下方）Chinese RMB bookkeeping software by YINB
-YINB开发的中国人民币记账软件
+（中文见下方）
+> Chinese RMB bookkeeping software by YINB
+> YINB开发的中国人民币记账软件
 
 # English
 
